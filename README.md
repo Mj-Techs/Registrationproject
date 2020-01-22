@@ -8,6 +8,13 @@ In this project firstly we make a Home page .where the you can see the Tag of AB
 - HTML
 - CSS
 
+**Total Page of this Project is:-**
+
+- ABOUTUS
+- CONTACTUS
+- SIGNIN
+- SIGNUP
+
 ***Some Command to uploade the Repository***
 
 1.update the Terminal
